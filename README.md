@@ -1,34 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# QuickMDX Documentation
 
-## Getting Started
+Welcome to the official documentation for QuickMDX, a lightweight tool for creating stunning documentation using MDX.
 
-First, run the development server:
+## Installation
+
+To get started with QuickMDX, make sure you have Node.js and npm installed. Then, install QuickMDX globally:
 
 ```bash
+npm install -g quick-mdx
+```
+### Usage
+Creating a new documentation project with QuickMDX is easy:
+
+```bash
+quick-mdx create my-docs
+```
+This command sets up a new project, ready to use the power of MDX.
+
+### Components and Styling
+QuickMDX allows you to add interactive elements and apply custom styles to make your documentation stand out.
+
+### Customization
+Make QuickMDX truly yours with customization options. Modify quickmdx.config.js to tailor your project's theme and settings.
+
+### Advanced Features
+Unleash the full potential of QuickMDX with interactive examples, media embedding, and automatic table of contents generation.
+
+### Running Processes
+Manage your QuickMDX project efficiently with development, building, and linting commands.
+```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Author
+This documentation was created by Metagravity, a developerConnect and collaborate for exciting ideas and opportunities!
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+For detailed information and usage examples, refer to the [full documentation]().
