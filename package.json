@@ -1,6 +1,6 @@
 {
-  "name": "mdxkit.js",
-  "version": "0.1.0",
+  "name": "quickmdx",
+  "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

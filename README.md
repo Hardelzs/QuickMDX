@@ -7,13 +7,13 @@ Welcome to the official documentation for QuickMDX, a lightweight tool for creat
 To get started with QuickMDX, make sure you have Node.js and npm installed. Then, install QuickMDX globally:
 
 ```bash
-npm install -g quick-mdx
+npm install -g quickmdx
 ```
 ### Usage
 Creating a new documentation project with QuickMDX is easy:
 
 ```bash
-quick-mdx create my-docs
+quickmdx create my-docs
 ```
 This command sets up a new project, ready to use the power of MDX.
 
