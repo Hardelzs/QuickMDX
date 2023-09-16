@@ -1,7 +1,7 @@
 /* styles/styles.css */
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: rgb(10, 12, 25);
+    background-color: rgb(12, 13, 20);
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
@@ -17,7 +17,7 @@ body {
 }
  
 h1, h2, h3, h4, h5, h6 {
-    color: #f9d66d;
+    color: #ff9b9b;
     position: relative;
     text-decoration: none;
     transition: color 0.3s ease-in-out;

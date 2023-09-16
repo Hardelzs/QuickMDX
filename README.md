@@ -33,6 +33,6 @@ npm run dev
 ```
 
 ### Author
-This documentation was created by Metagravity, a developerConnect and collaborate for exciting ideas and opportunities!
+This documentation was created by Metagravity using the free component this package has
 
 For detailed information and usage examples, refer to the [full documentation]().
